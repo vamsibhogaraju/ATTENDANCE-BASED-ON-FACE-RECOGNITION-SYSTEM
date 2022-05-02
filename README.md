@@ -20,9 +20,9 @@
 <img src="https://user-images.githubusercontent.com/88432041/166219026-0778be24-b6a2-404a-8fc3-93f54293b393.png" width="485px" align="center"> <img src="https://user-images.githubusercontent.com/88432041/166218328-8706443a-438f-4cc2-b085-a501a66e00cd.png" width="520px" align="center">
                   
 
-* Face Detection(HAAR CASCADE ALGORITHM): It has the objective of finding the faces (location and size) in an image and probably extract them to be used by the face recognition algorithm.
+* ***Face Detection(HAAR CASCADE ALGORITHM)***: It has the objective of finding the faces (location and size) in an image and probably extract them to be used by the face recognition algorithm.
 
-* Face Recognition(LBPH Algorithm): with the facial images already extracted, cropped, resized and usually converted to grayscale, the face recognition algorithm is responsible for finding characteristics which best describe the image.
+* ***Face Recognition(LBPH Algorithm)***: with the facial images already extracted, cropped, resized and usually converted to grayscale, the face recognition algorithm is responsible for finding characteristics which best describe the image.
 
 
 
