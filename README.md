@@ -32,17 +32,3 @@
 #### RESULTS
 
 <img src="https://user-images.githubusercontent.com/88432041/166219852-f1d5e7a4-12b1-4894-9dbb-a7195768b190.png" width="520px" align="center">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
