@@ -10,8 +10,9 @@
   * It is an Object Detection Algorithm used to identify faces in an image or a real time.
   * The algorithm is given a lot of positive images consisting of faces, and a lot of negative images not consisting of any face to train on them.
 
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FAnand_Krishnan_K_V%2Fpublication%2F325736109%2Ffigure%2Ffig2%2FAS%3A645811285266433%401530984817042%2FFeature-Extraction-in-Haar-Cascade-Algorithm.png&f=1&nofb=1
-  
+https://www.researchgate.net/profile/Anand_Krishnan_K_V/publication/325736109/figure/fig2/AS:645811285266433@1530984817042/Feature-Extraction-in-Haar-Cascade-Algorithm.png
+
+
 * LBPH Algorithm
   * The Local Binary Pattern Histogram algorithm is a simple solution on face recognition problem, which can recognize both front face and side face.
   * Local Binary Pattern (LBP) is a simple yet very efficient texture operator which labels the pixels of an image by thresholding the neighborhood of each pixel and considers the result as a binary number.
