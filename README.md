@@ -5,8 +5,19 @@
 **The system will be pre feed with the images of all the students and with the help of this pre feed data the algorithm will detect them who are present and match the features with the already saved images of them present in the database.**
 
 ## ALGORITHMS
-* HAAR CASCADE ALGORITHM
-![image](https://user-images.githubusercontent.com/88432041/166216388-ddedc24b-7368-4655-9c3e-a9f5422fabd2.png)
+
+* HAAR CASCADE ALGORITHM  
+  * It is an Object Detection Algorithm used to identify faces in an image or a real time.
+  * The algorithm is given a lot of positive images consisting of faces, and a lot of negative images not consisting of any face to train on them.
+  
+* LBPH Algorithm
+  * The Local Binary Pattern Histogram algorithm is a simple solution on face recognition problem, which can recognize both front face and side face.
+  * Local Binary Pattern (LBP) is a simple yet very efficient texture operator which labels the pixels of an image by thresholding the neighborhood of each pixel and considers the result as a binary number.
+
+
+
+
+
 
 
 
