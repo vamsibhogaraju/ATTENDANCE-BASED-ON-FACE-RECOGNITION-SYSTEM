@@ -25,9 +25,15 @@
 ***Face Recognition(LBPH Algorithm)***: with the facial images already extracted, cropped, resized and usually converted to grayscale, the face recognition algorithm is responsible for finding characteristics which best describe the image.
 
 
-### User Interface
+## User Interface
 
 <img src="https://user-images.githubusercontent.com/88432041/166219682-b0df728f-9c82-4973-ab18-c181d7dcfcd2.png" width="520px" align="center">
+
+#### RESULTS
+
+<img src="https://user-images.githubusercontent.com/88432041/166219852-f1d5e7a4-12b1-4894-9dbb-a7195768b190.png" width="520px" align="center">
+
+
 
 
 
