@@ -17,8 +17,7 @@
   * The Local Binary Pattern Histogram algorithm is a simple solution on face recognition problem, which can recognize both front face and side face.
   * Local Binary Pattern (LBP) is a simple yet very efficient texture operator which labels the pixels of an image by thresholding the neighborhood of each pixel and considers the result as a binary number.
 
-<img src="https://user-images.githubusercontent.com/88432041/166219026-0778be24-b6a2-404a-8fc3-93f54293b393.png" width="485px" align="center">
-                                  <img src="https://user-images.githubusercontent.com/88432041/166218328-8706443a-438f-4cc2-b085-a501a66e00cd.png" width="485px" align="center">
+<img src="https://user-images.githubusercontent.com/88432041/166219026-0778be24-b6a2-404a-8fc3-93f54293b393.png" width="485px" align="center"> <img src="https://user-images.githubusercontent.com/88432041/166218328-8706443a-438f-4cc2-b085-a501a66e00cd.png" width="485px" align="center">
                   
 
 
