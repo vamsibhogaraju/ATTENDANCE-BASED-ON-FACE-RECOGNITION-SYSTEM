@@ -10,7 +10,7 @@
   * It is an Object Detection Algorithm used to identify faces in an image or a real time.
   * The algorithm is given a lot of positive images consisting of faces, and a lot of negative images not consisting of any face to train on them.
 
-<img src="https://www.researchgate.net/profile/Anand_Krishnan_K_V/publication/325736109/figure/fig2/AS:645811285266433@1530984817042/Feature-Extraction-in-Haar-Cascade-Algorithm.png" width="285px" align="center">      ![image](https://user-images.githubusercontent.com/88432041/166218061-b40d00a7-d0ab-44c7-a20d-71d646f4af16.png)
+<img src="https://www.researchgate.net/profile/Anand_Krishnan_K_V/publication/325736109/figure/fig2/AS:645811285266433@1530984817042/Feature-Extraction-in-Haar-Cascade-Algorithm.png" width="285px" align="center">      <img src="https://i.pinimg.com/736x/20/62/43/2062434074933e5c4a4bfe2df659a225--bird.jpg" width="285px" align="center">
 
 
 * LBPH Algorithm
